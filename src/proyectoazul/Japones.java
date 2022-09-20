@@ -12,9 +12,10 @@ import javax.speech.synthesis.SynthesizerModeDesc;
 import javax.speech.synthesis.Voice;
 import javax.swing.JTextArea;
 
+
 /**
  *
- * @author Gabriel Olivares Arm
+ * @author Gabriel Olivares Armijo
  */
 public class Japones {
     
