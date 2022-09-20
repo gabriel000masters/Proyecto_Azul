@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar hello;
+
+<opcion> = (si | no) *;
+
+public <palabra> = (hola | mi | nombre | es | Gabriel | cómo | estás | bien | y | tú | gracias | por | de | nada | mucho | gusto | amaneciste | te | va | has | estado | qué | tal | si | no | más | o | menos | mal | nada | todo | pasa | encantada | encantado | tarde | tardes | noches | cómo | estoy | soy | eres | somos | bien | cansdo | cansada | haces | a | hacer | dónde | trabajas | en | trabajo | vives | casa | cuántos | años | tienes | tengo | veintidos | vivo | nos | vemos | hasta | luego| cuídate) * ; 
+

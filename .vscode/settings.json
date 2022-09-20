@@ -1,0 +1,29 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "dist/lib/basicplayer3.0.jar",
+        "dist/lib/cgjsapi.jar",
+        "dist/lib/commons-logging-api.jar",
+        "dist/lib/dom4j-1.6.jar",
+        "dist/lib/jflac-1.2.jar",
+        "dist/lib/jl1.0.jar",
+        "dist/lib/jmactritonusspi1.74.jar",
+        "dist/lib/jml-1.0b4.jar",
+        "dist/lib/jogg-0.0.7.jar",
+        "dist/lib/jorbis-0.0.15.jar",
+        "dist/lib/jspeex0.9.7.jar",
+        "dist/lib/kj_dsp1.1.jar",
+        "dist/lib/MP3seth.jar",
+        "dist/lib/mp3spi1.9.4.jar",
+        "dist/lib/poi-3.15-beta1.jar",
+        "dist/lib/poi-ooxml-3.15-beta1.jar",
+        "dist/lib/poi-ooxml-schemas-3.15-beta1.jar",
+        "dist/lib/substance.jar",
+        "dist/lib/tritonus_share.jar",
+        "dist/lib/vorbisspi1.0.2.jar",
+        "dist/lib/xmlbeans-2.6.0.jar",
+        "d:\\Androide\\NetBeansProjects\\voxforge_es_sphinx.cd_ptm_3000\\dist\\voxforge_es_sphinx.cd_ptm_3000.jar",
+        "dist/ProyectoAzul.jar",
+        "dist/lib/Libreriasphinx4.jar"
+    ]
+}
